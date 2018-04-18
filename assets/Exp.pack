@@ -1,0 +1,19 @@
+
+New folder1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Bullet
+  rotate: false
+  xy: 0, 0
+  size: 1965, 181
+  orig: 1965, 181
+  offset: 0, 0
+  index: -1
+Atomic
+  rotate: false
+  xy: 0, 183
+  size: 414, 105
+  orig: 414, 105
+  offset: 0, 0
+  index: -1

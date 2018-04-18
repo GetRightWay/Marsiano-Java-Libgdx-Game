@@ -1,0 +1,89 @@
+
+Hero_Enemy.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SecFlyingEnemy
+  rotate: false
+  xy: 1, 705
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+HeroDie
+  rotate: false
+  xy: 1, 569
+  size: 574, 134
+  orig: 574, 134
+  offset: 0, 0
+  index: -1
+MainHeroAttack
+  rotate: false
+  xy: 1, 438
+  size: 620, 129
+  orig: 620, 129
+  offset: 0, 0
+  index: -1
+MainHeroRun
+  rotate: false
+  xy: 1, 317
+  size: 559, 119
+  orig: 559, 119
+  offset: 0, 0
+  index: -1
+IdleHero
+  rotate: false
+  xy: 1, 189
+  size: 525, 126
+  orig: 525, 126
+  offset: 0, 0
+  index: -1
+Shooting
+  rotate: false
+  xy: 515, 830
+  size: 381, 131
+  orig: 381, 131
+  offset: 0, 0
+  index: -1
+JetPack
+  rotate: false
+  xy: 1, 99
+  size: 372, 88
+  orig: 372, 88
+  offset: 0, 0
+  index: -1
+SecondEnemy
+  rotate: false
+  xy: 515, 764
+  size: 325, 64
+  orig: 325, 64
+  offset: 0, 0
+  index: -1
+GroundEnemy
+  rotate: false
+  xy: 1, 1
+  size: 169, 96
+  orig: 169, 96
+  offset: 0, 0
+  index: -1
+FlyingVampir
+  rotate: false
+  xy: 515, 725
+  size: 214, 37
+  orig: 214, 37
+  offset: 0, 0
+  index: -1
+SecondEnemy_Die
+  rotate: false
+  xy: 898, 891
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+FlyingVampir_Die
+  rotate: false
+  xy: 375, 148
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1

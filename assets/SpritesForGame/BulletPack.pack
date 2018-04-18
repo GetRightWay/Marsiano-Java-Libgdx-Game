@@ -1,0 +1,54 @@
+
+BulletPack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ArmaGed
+  rotate: false
+  xy: 1, 26
+  size: 200, 199
+  orig: 200, 199
+  offset: 0, 0
+  index: -1
+Support_Ufo
+  rotate: false
+  xy: 203, 160
+  size: 115, 65
+  orig: 115, 65
+  offset: 0, 0
+  index: -1
+Access_Bullet
+  rotate: false
+  xy: 203, 64
+  size: 75, 94
+  orig: 75, 94
+  offset: 0, 0
+  index: -1
+Missle
+  rotate: false
+  xy: 320, 170
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1
+UfoBullet
+  rotate: false
+  xy: 1, 1
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+Bullet
+  rotate: false
+  xy: 280, 117
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Rocket_Bullet
+  rotate: false
+  xy: 203, 37
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1

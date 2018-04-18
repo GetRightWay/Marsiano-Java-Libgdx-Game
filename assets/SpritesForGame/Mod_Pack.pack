@@ -1,0 +1,61 @@
+
+Mod_Pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Missle
+  rotate: false
+  xy: 1, 426
+  size: 575, 60
+  orig: 575, 60
+  offset: 0, 0
+  index: -1
+Spider_Attack
+  rotate: false
+  xy: 1, 347
+  size: 455, 77
+  orig: 455, 77
+  offset: 0, 0
+  index: -1
+Ice_Man_Attack
+  rotate: false
+  xy: 1, 251
+  size: 434, 94
+  orig: 434, 94
+  offset: 0, 0
+  index: -1
+Ice_Man_Run
+  rotate: false
+  xy: 1, 158
+  size: 386, 91
+  orig: 386, 91
+  offset: 0, 0
+  index: -1
+Spider_Run
+  rotate: false
+  xy: 1, 81
+  size: 340, 75
+  orig: 340, 75
+  offset: 0, 0
+  index: -1
+Ice_Man_Jump
+  rotate: false
+  xy: 1, 1
+  size: 239, 78
+  orig: 239, 78
+  offset: 0, 0
+  index: -1
+Ice_modify
+  rotate: false
+  xy: 578, 261
+  size: 224, 225
+  orig: 224, 225
+  offset: 0, 0
+  index: -1
+Ice_Man_Standing
+  rotate: false
+  xy: 804, 393
+  size: 64, 93
+  orig: 64, 93
+  offset: 0, 0
+  index: -1
